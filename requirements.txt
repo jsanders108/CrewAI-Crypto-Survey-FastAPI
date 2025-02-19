@@ -5,3 +5,4 @@ requests
 crewai
 streamlit
 crewai-tools
+scipy
